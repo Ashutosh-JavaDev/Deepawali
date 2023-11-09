@@ -32,7 +32,8 @@ body {
     width: 450px; 
     height: 600px; 
     color: #fff; 
-    transform-style: preserve-3d; 
+    cursor: pointer;
+    transform-style:preserve-3d; 
 } 
  
 .card .cardBg { 
