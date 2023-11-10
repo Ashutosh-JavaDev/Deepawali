@@ -45,7 +45,7 @@ body{
     justify-content: center;
     align-items: center;
     /* margin: 1rem 0rem; */
-    animation: diwali3 10s linear forwards;
+    /* animation: diwali3 10s linear forwards; */
 }
 @keyframes diwali3 {
     0%{
@@ -149,7 +149,7 @@ animation: diwali 10s 8s linear infinite;
 .box2 h1{
     text-align: center;
     color:rgb(241, 241, 241);
-    animation: diwali2 10s 8s linear forwards;
+    animation: diwali2 10s 11s linear forwards;
 }
 @keyframes diwali2 {
     0%{
@@ -181,5 +181,8 @@ animation: diwali 10s 8s linear infinite;
     .greeting{
         display: flex;
         flex-wrap: wrap;
+    }
+    .icon{
+        flex-direction: column;
     }
 }
