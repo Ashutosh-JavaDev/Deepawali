@@ -45,7 +45,7 @@ body{
     justify-content: center;
     align-items: center;
     /* margin: 1rem 0rem; */
-    animation: diwali3 10s linear forwards;
+    animation: diwali3 5s linear forwards;
 }
 @keyframes diwali3 {
     0%{
@@ -87,7 +87,7 @@ body{
     text-shadow: -2px -2px 5px rgba(143, 117, 4, 0.712);
     font-size:3.5rem;
     padding: 1rem;
-animation: diwali 10s 8s linear infinite;
+animation: diwali 10s 4s linear infinite;
 }
 @keyframes diwali {
     0%{
@@ -166,7 +166,7 @@ audio {
 .box2 h1{
     text-align: center;
     color:rgb(241, 241, 241);
-    animation: diwali2 10s 11s linear forwards;
+    animation: diwali2 10s 6s linear forwards;
 }
 @keyframes diwali2 {
     0%{
